@@ -19,6 +19,13 @@ This project addresses the challenges of rigid needle biopsy.
    pip install -r requirements.txt
    ```  
 
+## Example
+
+![Organ Mask](img/a.jpg)
+
+![Rigid Needle](img/b.png)
+
+
 ## Usage  
 1. Prepare input data for the path planning algorithm.  
 2. Run the main script:  
