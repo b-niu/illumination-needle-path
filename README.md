@@ -9,15 +9,8 @@ This project addresses the challenges of rigid needle biopsy.
 - **Biopsy Application**: Designed specifically to address challenges in needle biopsy procedures.  
 
 ## Installation  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/illumination-rigid-needle-path.git
-   cd illumination-rigid-needle-path
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
+
+TODO
 
 ## Example
 
@@ -27,12 +20,9 @@ This project addresses the challenges of rigid needle biopsy.
 
 
 ## Usage  
-1. Prepare input data for the path planning algorithm.  
-2. Run the main script:  
-   ```bash
-   python main.py
-   ```  
-3. Visualize results using the built-in plotting tools or integrate them with your application.  
+
+TODO
+
 
 ## Contributing  
 Contributions are welcome! Feel free to submit issues or pull requests to improve this project.  
